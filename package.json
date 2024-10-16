@@ -1,5 +1,5 @@
 {
-  "name": "vTopzee",
+  "name": "topzee",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -39,5 +39,5 @@
     "vitest": "^0.34.6",
     "vue-tsc": "^2.1.6"
   },
-  "description": "An Ionic project"
+  "description": "Topzee poker dice"
 }
